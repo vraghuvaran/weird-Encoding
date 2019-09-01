@@ -35,5 +35,6 @@ $ python solve.py
 ```
 $ python solve1.py
 ```
-it will print a neat ascii art on the stdout <br/>
+That's it !
+
 # Hope u enjoyed 
