@@ -31,6 +31,7 @@ The first one(solve.py) prints a neat ascii art on the stdout and the second cod
 ```
 $ python solve.py 
 ```
+                                                               (or)
 ```
 $ python solve1.py
 ```
