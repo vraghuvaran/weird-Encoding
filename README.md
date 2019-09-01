@@ -25,8 +25,14 @@ This is one of challenges given in a CTF<br/>
 
 ```
 Here a bit of observation was required to figure out that the “x” symbol mean concatenation n number of a character, like 0x5 will mean 00000. And “+” would mean concatenation of two strings of different type. Also, one will also have to decide on 0 representing 255 255 255 i.e. the color white and 1 representing 0 0 0 , i.e. the color black. You could have experimented with both combinations but eventually you would get the correct mapping.<br/>
+
+I have written two variants of python code for it.<br />
+The first one(solve.py) prints a neat ascii art on the stdout and the second code(solve1.py) builts the related image for the provided data <br/> 
 ```
 $ python solve.py 
+```
+```
+$ python solve1.py
 ```
 it will print a neat ascii art on the stdout <br/>
 # Hope u enjoyed 
